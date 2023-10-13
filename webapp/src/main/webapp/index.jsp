@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning in Genztech classes</h1>
+    <h1>Aisha is learning DevOps Learning in Genztech classes</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Maven project in Genztech class </h1>
+   <h1> Thankyou, Happy Learning Maven project in Genztech class! </h1>
 
   
 </form>
